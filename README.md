@@ -35,4 +35,6 @@ Use `signal("INT")` or `signal("EOF")` to send the terminal control bytes for Ct
 
 Run `swift test` to exercise the package against real pseudo-terminals.
 
-[MIT license](LICENSE)
+---
+
+`done for fun`
